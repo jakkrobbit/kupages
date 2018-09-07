@@ -1,0 +1,23 @@
+{
+  "name": "KUpages",
+  "version": "1.0.0",
+  "description": "A collection of pages designed for KUBS.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikki Berry",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cache": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp": "latest"
+  }
+}
